@@ -1,6 +1,6 @@
 # nshm-2010
 
-The NSHM source models for New Zealand provided by GNS Science currently are:
+This repository provides the source model files necessary for running the GNS Science 2010 National Seismic Hazard Model (NSHM) in the <a href="https://www.globalquakemodel.org/oq-get-started">OpenQuake Engine</a>. The NSHM source models for New Zealand provided by GNS Science currently are:
 * 2010_NewZealand_NSHM_source_model-1y.xml
 * 2010_NewZealand_NSHM_source_model-50y.xml
 * 2010_NewZealand_NSHM_source_model-100y.xml
