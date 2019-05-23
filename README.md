@@ -1,9 +1,12 @@
 # nshm-2010
 
-The NSHM source model for New Zealand provided by GNS Science currently is:
-	2010_NewZealand_NSHM_source_model-50y.xml
+The NSHM source models for New Zealand provided by GNS Science currently are:
+* 2010_NewZealand_NSHM_source_model-1y.xml
+* 2010_NewZealand_NSHM_source_model-50y.xml
+* 2010_NewZealand_NSHM_source_model-100y.xml
+These file are intended to for investigation times of 1 year, 50 years and 100 years respectively, and differ only in conditional probabilities of rupture for a small number of faults.
 
-This file is the fifth corrected version of the 2010 New Zealand National Seismic Hazard Model published by Stirling et al. (2012; reference below).
+These files comprise the fifth corrected version of the 2010 New Zealand National Seismic Hazard Model published by Stirling et al. (2012; reference below).
 
 The 2010 New Zealand National Seismic Hazard Model uses the McVerry et al. (2006) GMPE for all tectonic region types: 
 * Active Shallow Crust, 
@@ -16,7 +19,7 @@ The following corrections have been made since the Stirling et al. (2012) public
 * The background source/distributed seismicity model has been corrected. This was a relatively simple fix regarding application of floor level values. Additionally, the area of the Auckland/Northland distributed seismicity zone has been expanded from that published in Stirling et al. (2012). 
 (correction made by M Gerstenberger)
 
-* Four fault sources in the Wellington region have conditional probabilities of rupture. They are OhariuC, OhariuS, WellWHV, and WairarapNich. The provided model is the 50-year model; recurrence intervals would differ for a 100-year model time frame.
+* Four fault sources in the Wellington region have conditional probabilities of rupture. They are OhariuC, OhariuS, WellWHV, and WairarapNich. The occurrence rates differ for the 1-year, 50-year and 100-year models.
 
 * Corrected occurrence rates (1/recurrence interval) for subduction interface sources for the Hikurangi and Fiordland subduction zones. These values were previously only determined by apportioning slip rate by event frequency, which was insufficient. The corrected rates use the single event displacement in addition to slip rate.
   (corrections made by G H McVerry, E R Abbott, T Goded; Jan 2018, Oct 2018, May 2019)
