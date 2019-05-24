@@ -5,7 +5,7 @@ This repository provides the source model files necessary for running the GNS Sc
 * 2010_NewZealand_NSHM_source_model-50y.xml
 * 2010_NewZealand_NSHM_source_model-100y.xml
 
-These file are intended to for investigation times of 1 year, 50 years and 100 years respectively, and differ only in conditional probabilities of rupture for a small number of faults.
+These file are intended to for investigation times of 1 year, 50 years and 100 years respectively, and differ only in conditional probabilities of rupture for a small number of faults. These files are subject to change, please check back regularly for updates.
 
 These files comprise the fifth corrected version of the 2010 New Zealand National Seismic Hazard Model published by Stirling et al. (2012; reference below).
 
@@ -14,6 +14,7 @@ The 2010 New Zealand National Seismic Hazard Model uses the McVerry et al. (2006
 * Volcanic, 
 * Subduction Interface, 
 * Subduction Intraslab.
+
 More comprehensive, alternative GMPE logic trees are possible in OpenQuake.
 
 The following corrections have been made since the Stirling et al. (2012) publication:
